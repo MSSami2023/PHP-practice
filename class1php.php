@@ -17,4 +17,7 @@ $color = ["black","blue","red"]; //Array
 
 // word count
 // echo str_word_count($d)
+
+// reverse
+echo strrev($d)
 ?>
