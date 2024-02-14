@@ -72,7 +72,7 @@
 // if($a<$b){   
 //       echo "Eligible";
 //  }else{
-//       echo "Not Eligible";
+//       echo "Not Eligible";z
 //     }
 
     // echo "<br>"
